@@ -45,7 +45,7 @@ Displays all client records in a table format.
 `pv clients list`
 
 ## Project Structure
-![](https://github.com/faidrn/platzi-ventas/blob/main/resources/project_structure.png
+![](https://github.com/faidrn/platzi-ventas/blob/main/resources/project_structure.png)
 
 
 ## Contributions
