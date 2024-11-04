@@ -45,4 +45,14 @@ Displays all client records in a table format.
 `pv clients list`
 
 ## Project Structure
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://github.com/faidrn/platzi-ventas/blob/main/resources/project_structure.png
+
+
+## Contributions
+
+Contributions are welcome. If you wish to improve this project, create a fork, make your changes, and submit a pull request.
+
+
+##  License
+
+his project is licensed under the MIT License. See the [LICENSE](https://github.com/faidrn/platzi-ventas/blob/main/LICENSE "LICENSE") file for more details.
